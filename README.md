@@ -1,6 +1,7 @@
 LordOfTheRings
 ==============
 Odbrana sela
+
 Malo selo u podnožju Maglenih planina se nalazi pod stalnim napadom orka koji se kote u vrhovima planina. Međutim, populaciji sela ide u korist to što najbliži prolaz između sela i planina prolazi kroz jako uzak tunel.
 
 Kako bi što bolje isplanirali odbranu, seljani su unajmili IT eksperta (vas) da naprave kompjutersku simulaciju iz koje bi vidjeli koliko orka jedan heroj može vlastoručno pobijedeti.
