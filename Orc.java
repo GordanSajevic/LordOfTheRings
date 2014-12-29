@@ -1,5 +1,5 @@
 
-public class Orc extends Enemy implements GameObject{
+public class Orc extends Enemy{
 
 	/**
 	 * Konstruktor sa dva parametra
@@ -25,5 +25,7 @@ public class Orc extends Enemy implements GameObject{
 	
 	
 }
+
+	
 
 	
