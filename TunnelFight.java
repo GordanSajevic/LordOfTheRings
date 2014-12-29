@@ -1,4 +1,5 @@
 
+
 public class TunnelFight {
 
 	//Testna klasa
@@ -28,15 +29,15 @@ public class TunnelFight {
 				return "Goblin " + "\nAttack strength: " + attackStrength + "\nHealth: " + health;
 			}
 		};
-		int numOrcs = enemy.length;
+		int numEnemies = enemy.length;
 		int i=0;
-		while (obrim.getHealth() > 0 && numOrcs > 0 )
+		while (obrim.getHealth() > 0 && numEnemies > 0 )
 		{
 			Duel battle = new Duel(obrim, enemy[i]);
 			winner = battle.fight();
 			if (winner == obrim)
 			{
-				numOrcs--;
+				numEnemies--;
 			}
 			i++;
 		}
@@ -47,4 +48,3 @@ public class TunnelFight {
 	}
 
 }
-
