@@ -23,3 +23,4 @@ public interface GameObject {
 	void handleAttack(double attack);
 	
 }
+
